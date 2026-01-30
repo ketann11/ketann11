@@ -44,9 +44,10 @@ Currently, I’m diving deep into <b>AWS, Linux, Docker, Kubernetes, CI/CD, Shel
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketan11&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ketan11&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ketan11&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=ketan11&theme=tokyonight" />
 </p>
+
