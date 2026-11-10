@@ -1,44 +1,78 @@
-<h1 align="center">Hi there 👋</h1>
+# Hi, I'm Ketan Dharurkar 👋
 
-<p align="center">
-I’m <b>Ketan Dharurkar</b>, a <b>DevOps Enthusiast and Fresher</b> passionate about designing automated workflows, exploring modern tools, and building scalable systems. 🚀  
-Currently, I’m diving deep into <b>AWS, Linux, Docker, Kubernetes, CI/CD, Shell Scripting, Python, and Terraform</b> to enhance my expertise as a future DevOps professional.
-</p>
+### QA Engineer | Software Testing | Automation Testing | API Testing 
 
----
+I'm passionate about Software Quality Assurance and Software Testing, with an interest in building reliable, scalable, and high-quality software.
 
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <img alt="AWS" src="https://skillicons.dev/icons?i=aws" width="40" />
-  <img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="40" />
-  <img alt="Docker" src="https://skillicons.dev/icons?i=docker" width="40" />
-  <img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" width="40" />
-  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="40" />
-  <img alt="Python" src="https://skillicons.dev/icons?i=python" width="40" />
-  <img alt="Terraform" src="https://skillicons.dev/icons?i=terraform" width="40" />
-  <img alt="Bash" src="https://skillicons.dev/icons?i=bash" width="40" />
-</p>
+My focus areas include Manual Testing, Automation Testing, API Testing, Database Testing, and CI/CD integration.
 
 ---
 
-## 🌱 What I'm Learning
+### 🧪 Testing Expertise
 
-- Cloud Infrastructure: Mastering AWS to architect scalable solutions
-- CI/CD Workflows: Automating build and deployment pipelines using GitHub Actions and GitLab CI/CD
-- Kubernetes: Streamlining application deployment and orchestration
-- Infrastructure as Code: Managing cloud environments with Terraform
-- Scripting & Automation: Leveraging Python and Bash for smarter workflows
+- **Manual Testing:** SDLC, STLC, Test Cases, Test Scenarios, Bug Reporting, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing.
+- **Automation Testing:** Selenium WebDriver, Playwright, TestNG, PyTest, Cucumber, Serenity, Page Object Model (POM).
+- **API Testing:** Postman, ReadyAPI, REST API Testing, HTTP Methods, Status Codes, JSON Validation, CRUD Operations.
+- **Database Testing:** SQL, MySQL, Joins, Subqueries, Data Validation, Database Integrity Testing.
+- **Performance & Reliability:** Test Execution, Defect Tracking, Regression Validation.
+
+### 🛠️ Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Programming | Java, Python, SQL |
+| Automation | Selenium, Playwright, TestNG, PyTest |
+| BDD Frameworks | Cucumber, Serenity |
+| API Testing | Postman, ReadyAPI |
+| Test Management | Jira, TestRail, Confluence |
+| CI/CD | Jenkins, GitHub Actions, Bamboo |
+| Build Tools | Maven, Gradle |
+| DevOps | Docker, AWS, Linux |
+| Version Control | Git, GitHub |
+
+### 🚀 Projects
+
+**1. Web & API Test Automation Framework**
+- Designed automation framework using Page Object Model (POM).
+- Developed automated test scripts using Selenium and Playwright.
+- Implemented BDD scenarios using Cucumber.
+- Performed REST API testing using Postman and ReadyAPI.
+- Validated API responses, status codes, headers, and JSON schemas.
+
+**2. Automated CI/CD Pipeline**
+- Integrated Jenkins and GitHub Actions.
+- Automated build verification and test execution.
+- Used Maven for build management.
+- Containerized environments using Docker.
+- Explored AWS deployment and monitoring.
+
+**3. Employee & HR Management System**
+- Designed relational database schemas.
+- Performed SQL-based database validation.
+- Tested data accuracy and referential integrity.
+- Validated database transactions and constraints.
+
+### 🎯 Currently Learning
+
+- Advanced Automation Testing
+- Playwright with Java
+- Selenium Automation Frameworks
+- REST API Automation
+- CI/CD for Automation Testing
+- Software Testing Best Practices
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketann11&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketann11&layout=compact&theme=tokyonight)
+
+### 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/ketandharurkar11
+- GitHub: https://github.com/ketann11
+- Email: ketandharurkar10@gmail.com
 
 ---
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ketandharurkar11/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:ketandharurkar10@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail" /></a>
-</p>
-
----
-
-
+⭐ *Interested in Software Quality, Automation, and building better software through testing.*
